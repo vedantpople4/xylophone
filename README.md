@@ -1,6 +1,5 @@
-# xylophone
-
-A new Flutter application.
+# xylophone_app
+This is the Xylophone app.
 
 ## Getting Started
 
