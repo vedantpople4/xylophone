@@ -1,4 +1,4 @@
-# xylophone_app
+# Xylophone_app
 This is the Xylophone app.
 
 ## Getting Started
