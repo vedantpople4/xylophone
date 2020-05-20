@@ -1,5 +1,5 @@
 # Xylophone_app
-This is the Xylophone app. It has 
+This is the Xylophone app. It has 7 bands which
 
 ## Getting Started
 
