@@ -1,5 +1,5 @@
 # Xylophone_app
-This is the Xylophone app.
+This is the Xylophone app. It has 
 
 ## Getting Started
 
