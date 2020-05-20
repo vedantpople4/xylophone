@@ -1,5 +1,5 @@
 # Xylophone_app
-This is the Xylophone app. It has 7 bands which are there for the 7 seven notes
+This is the Xylophone app. It has 7 bands which are there for the 7 seven notes available. You can produce your music from it and relax.
 
 ## Getting Started
 
